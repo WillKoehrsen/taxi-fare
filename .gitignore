@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Model checkpoints
+*.ckpt
+*.h5
+
 # Dask 
 *dask-worker-space/*
 
